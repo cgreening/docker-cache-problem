@@ -1,0 +1,7 @@
+{
+  "name": "docker-cache-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chris Greening <chris@cmgresearch.com>",
+  "license": "MIT"
+}
